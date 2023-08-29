@@ -26,7 +26,7 @@ Our hybrid CNN-LSTM model demonstrates impressive performance:
 - **Recall:** 0.91
 - **F1-Score:** 0.92
 
-<img src="Images/LSTM_acc.png" alt="Results" width="500" height="300">
+<img src="Images/LSTM_acc.PNG" alt="Results" width="500" height="300">
 
 
 ## Usage Instructions

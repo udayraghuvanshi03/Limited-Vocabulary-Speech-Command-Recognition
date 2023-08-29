@@ -6,7 +6,7 @@ http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 Reference: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 
 <div style="text-align:center">
-  <img src="Images/specto_output.png" alt="Dataset" width="500" height="300">
+  <img src="Images/specto_output.png" alt="Dataset" width="400" height="400">
 </div>
 
 ## Key Features

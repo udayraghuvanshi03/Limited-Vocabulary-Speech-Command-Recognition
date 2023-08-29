@@ -6,6 +6,7 @@ http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 Reference: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 
 ![Dataset](Images/specto_output.png)
+<img src="Images/specto_output.png" alt="Dataset" width="500" height="300">
 
 ## Key Features
 - **Hybrid Model:** The approach combines Convolutional Neural Networks (CNNs) for spatial feature extraction and Long Short-Term Memory (LSTM) networks for capturing temporal patterns in audio data.

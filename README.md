@@ -5,6 +5,8 @@ http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 
 Reference: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 
+![Dataset](Images/specto_output.png)
+
 ## Key Features
 - **Hybrid Model:** The approach combines Convolutional Neural Networks (CNNs) for spatial feature extraction and Long Short-Term Memory (LSTM) networks for capturing temporal patterns in audio data.
 - **Dataset Augmentation:** Data augmentation techniques were employed to enhance the model's ability to generalize to various acoustic conditions and speaking styles. The raw audio files were converted to spectrograms.
@@ -23,7 +25,7 @@ Our hybrid CNN-LSTM model demonstrates impressive performance:
 - **Recall:** 0.91
 - **F1-Score:** 0.92
 
-  
+
 ## Usage Instructions
 1. Clone this repository using `git clone https://github.com/udayraghuvanshi03/Limited-Vocabulary-Speech-Command-Recognition.git`.
 2. Navigate to the project directory: `cd limited-vocabulary-speech-recognition`.
